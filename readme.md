@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mraqib021" alt="mraqib021" /></a> </p>
 
-- 🔭 I’m currently working on [cmjchakiwara](cmjchakiwara.org)
+- 🔭 I’m currently working on [React Native ]()
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://aqib-iqbal-169a0.web.app/](https://aqib-iqbal-169a0.web.app/)
+- 👨‍💻 All of my projects are available at [https://aqib-iqbal.com/](https://aqib-iqbal-portfolio.web.app/)
 
 - 📫 How to reach me **mraqib021@gmail.com**
 
